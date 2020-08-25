@@ -4,7 +4,6 @@
 **phpluo/phpluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,5 +17,5 @@ Here are some ideas to get you started:
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![image title](https://rushter.com/counter.svg)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phpluo&show_icons=true&theme=radical&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phpluo&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhw2590582&show_icons=true&theme=radical&line_height=40)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhw2590582&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
